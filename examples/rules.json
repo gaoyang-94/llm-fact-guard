@@ -1,0 +1,4 @@
+{
+  "required": ["title", "body"],
+  "numbers": [{"field": "body", "source_field": "text"}]
+}
