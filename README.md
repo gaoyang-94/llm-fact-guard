@@ -1,5 +1,7 @@
 # factguard
 
+[![tests](https://github.com/gaoyang-94/llm-fact-guard/actions/workflows/tests.yml/badge.svg)](https://github.com/gaoyang-94/llm-fact-guard/actions/workflows/tests.yml)
+
 Verify LLM output against its source before it ships.
 
 An LLM will happily write "revenue grew 42.8%" when the source says 41.2%.
